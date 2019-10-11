@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <image src="http://ww1.sinaimg.cn/large/c4b18d0dly1g7sfk25v06j20k00cidfs.jpg"></image>
+  <i-button type="success" size="small" open-type="getUserInfo" bindgetuserinfo="login" class="login">微信一键登录</i-button>
+</view>
